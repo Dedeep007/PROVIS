@@ -105,5 +105,5 @@ Pull requests and feature suggestions are welcome! Please check out the [CONTRIB
 ---
 
 ## 📫 Contact
-For questions or collaborations, reach out via GitHub issues or email at `your.email@example.com`
+For questions or collaborations, reach out via GitHub issues or email at `vasireddydedeep@gmail.com`
 
