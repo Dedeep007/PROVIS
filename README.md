@@ -41,7 +41,7 @@ PROVIS (Progressive Vision-to-Image Synthesis) is a state-of-the-art text-to-ima
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PROVIS.git
+git clone https://github.com/Dedeep007/PROVIS.git
 cd PROVIS
 
 # Install dependencies
@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ### Inference Example
 ```python
 from provis import PROVISModel
-model = PROVISModel.from_pretrained('path/to/checkpoint')
+model = PROVIS
 image = model.generate("a fantasy landscape with glowing trees")
 image.save("output.png")
 ```
